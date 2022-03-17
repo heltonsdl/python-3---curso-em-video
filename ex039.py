@@ -1,4 +1,12 @@
 from datetime import date
+
+
+''' Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora exata de se alistar ou se já passou do tempo do alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
+
+Aula Anterior'''
+
+
+
 print ('\033[1;32m Vamos verificar sobre o alistamento militar!\033[m')
 print ('\033[1;33m-==- \033[m' *10)
 data = int ( input ('Escreva o ano do seu nascimento:'))

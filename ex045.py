@@ -1,5 +1,9 @@
 from random import randint
 from time import sleep
+
+''' Crie um programa que faça o computador jogar Jokenpô com você.'''
+
+
 print('''Escolha uma das opções para jogar:
     [0] - Papel
     [1] - Tesoura

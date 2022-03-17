@@ -1,5 +1,13 @@
 from datetime import date
 
+'''Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
+
+Aula Anterior
+Voltar para Módulo
+Próximo'''
+
+
+
 atual = date.today().year
 totmaior = 0
 totmenor = 0
