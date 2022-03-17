@@ -1,4 +1,4 @@
-''' Crie um proggrama que diga " Olá Munod!"
+''' Crie um proggrama que diga " Olá Mundo!"
 '''
 
 print ('Olá, Mundo!')
