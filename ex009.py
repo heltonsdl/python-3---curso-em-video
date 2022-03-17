@@ -24,3 +24,4 @@ print (' {} x {} = {}'.format( t, 1, t*1))
 print (' {} x {} = {}'.format ( t, 2, t*2))
 print (' {} x {} = {}'.format ( t, 3, t*3))
 
+'''Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.'''

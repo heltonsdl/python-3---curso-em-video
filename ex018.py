@@ -6,3 +6,4 @@ co = cos (radians (an))
 ta = tan (radians (an))
 print (' O ângulo de {} tem o cosseno de {:.2f}.'.format(an, co))
 print (' O ângulo de {} tem a tangente de {:.2f}.'.format(an, ta))
+'''Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.'''

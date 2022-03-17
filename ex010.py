@@ -5,3 +5,4 @@ euro = real / 6.25
 print (' Convertendo o valor de R${:.2f}, você consegue US${:.2f} ou €{:.2f}.' .format( real,dola, euro))
 
 #print (' Convertendo o valor de R${:.2f}, você consegue US${:.2f} ou € {:.2f}.'.format(real,(real/dola)))
+''' Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.'''
