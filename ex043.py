@@ -1,0 +1,13 @@
+peso = float ( input( ' Digite o seu peso:'))
+altura = float ( input ( ' Digite a sua altura:'))
+imc = peso / altura**2
+if imc < 18.5:
+    print (' O IMC {:.1f} Você está abaixo do peso!'.format(imc))
+elif imc > 18.5 and imc <= 25:
+    print (' O IMC {:.1f} Peso ideal'.format(imc))
+elif imc > 25 and imc <= 30:
+    print ('O IMC {:.1f} Sobre peso!'.format(imc))
+elif imc > 30 and imc <= 40:
+    print ('O IMC {:.1f} Obesidade'.format(imc))
+elif imc > 40:
+    print ('O IMC {:.1f} Obesidade morbidade!'.format(imc))
